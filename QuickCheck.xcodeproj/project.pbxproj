@@ -37,20 +37,20 @@
 		4EC5AAB115407D2E000A1841 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4EC5AAB315407D2E000A1841 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4EC5AAB515407D2E000A1841 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4EC5AAB915407D2E000A1841 /* QuickCheck-Info.plist */ = {isa = PBXFileReference; path = "QuickCheck-Info.plist"; sourceTree = "<group>"; };
+		4EC5AAB915407D2E000A1841 /* QuickCheck-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuickCheck-Info.plist"; sourceTree = "<group>"; };
 		4EC5AABB15407D2E000A1841 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4EC5AABD15407D2E000A1841 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4EC5AABF15407D2E000A1841 /* QuickCheck-Prefix.pch */ = {isa = PBXFileReference; path = "QuickCheck-Prefix.pch"; sourceTree = "<group>"; };
-		4EC5AAC015407D2E000A1841 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		4EC5AABF15407D2E000A1841 /* QuickCheck-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QuickCheck-Prefix.pch"; sourceTree = "<group>"; };
+		4EC5AAC015407D2E000A1841 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4EC5AAC115407D2E000A1841 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4EC5AAC415407D2E000A1841 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		4EC5AAC615407D2E000A1841 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		4EC5AAC615407D2E000A1841 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		4EC5AAC715407D2E000A1841 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4EC5AACE15407D2E000A1841 /* QuickCheckTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickCheckTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EC5AACF15407D2E000A1841 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		4EC5AAD715407D2E000A1841 /* QuickCheckTests-Info.plist */ = {isa = PBXFileReference; path = "QuickCheckTests-Info.plist"; sourceTree = "<group>"; };
+		4EC5AAD715407D2E000A1841 /* QuickCheckTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuickCheckTests-Info.plist"; sourceTree = "<group>"; };
 		4EC5AAD915407D2E000A1841 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4EC5AADB15407D2E000A1841 /* QuickCheckTests.h */ = {isa = PBXFileReference; path = QuickCheckTests.h; sourceTree = "<group>"; };
+		4EC5AADB15407D2E000A1841 /* QuickCheckTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuickCheckTests.h; sourceTree = "<group>"; };
 		4EC5AADC15407D2E000A1841 /* QuickCheckTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuickCheckTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
